@@ -1,0 +1,115 @@
+{
+    "Human Resource Management": {
+        "ClientList": [
+            "Develop UI drafts", 
+            "Determine who has access to DB",
+            "Ensure users can access DB",
+            "Determine Access Controls",
+            "Allow admins to see changes",
+            "Easy for users to add/change their info",
+            "Ensure privacy and security of devices and DB"
+        ],
+        "studentDB": [
+            "Gather Requirements",
+            "Design Database",
+            "Build Database",
+            "Test Functionality",
+            "Ensure easy to update student information",
+            "Test and review release version"
+        ],
+        "studentDBGUI": [
+            "Build UI/Website",
+            "Create Forms for agreements",
+            "Have way of signing consent forms",
+            "ensure all documentation for students is included on website",
+            "Setup admin and student accounts for access",
+            "test and ensure all account types working properly",
+            "Ensure ease of use"
+        ],
+        "passwords": [
+            "setup a secure database for user authentication",
+            "on setup or change of password verify username and password meet criteria",
+            "use a secure method to check password against saved version",
+            "track failed attempts to lock out multiple in a row"
+        ]
+    },
+    "Marketing": {
+        "webpage": [
+            "design webpage",
+            "setup webpage on main site & link in menus",
+            "ensure its part of search engine algos."
+        ],
+        "focusgroup": [
+            "organize and schedule focus group",
+            "run focus group",
+            "create report from results"
+        ],
+        "flyers": [
+            "Design flyers",
+            "Print flyers",
+            "Post flyers around campus",
+            "Add to TV slideshow in main areas"
+        ],
+        "emailcampaign": [
+            "write email template for mailings",
+            "connect to mailing database for addresses and main identifiers",
+            "review email and ensure accurate and in good taste",
+            "post periodically each semester",
+            "review response and block rate to measure success"
+        ],
+        "socialmedia": [
+            "Design social media posting for linkedin, insta, meta",
+            "create thumbnail ad",
+            "create page for each social requried",
+            "post on social media sites",
+            "monitor and review click rates and other metrics"
+        ]
+    },
+    "InitalDevices": {
+        "devicestorage": [
+            "ensure location available to store devices",
+            "setup staging area for ready devices",
+            "setup repair area for reparing devices"
+        ],
+        "deviceids": [
+            "Assign device ids",
+            "record ids and basic descriptions in spreadsheet",
+            "record device locations to spreadsheet",
+            "prepare for upload to database"
+        ],
+        "supplyDB": [
+            "Design database for inventory",
+            "Build and test initial design",
+            "Import device information from spreadsheet",
+            "Test import of information to ensure accuracy"
+        ],
+        "repair": [
+            "wipe device when checked in",
+            "ensure all identifying information and software removed"
+        ],
+        "Active": [
+            "Ensure Millikin sticker is on device",
+            "Ensure basic apps needed for education are installed",
+            "plug in devices 24hours prior to pickup",
+            "ensure charged, on, and updated pickup day"
+        ]
+    },
+    "Inventory": {
+        "createDB": [
+            "create inventory database with make, model, and serial number",
+            "test database",
+            "create another draft of database",
+            "ensure working with needed functionality",
+            "create user manual and guide for employees",
+            "launch database",
+            "monitor database and continue to improve based on metrics"
+        ],
+        "devicetracking": [
+            "add table for recording origin of device",
+            "recording quality of device",
+            "build report template for loaned or missing devices",
+            "ensure DB is able to insert, delete, or update device entries",
+            "add an 'in repair' and 'parting out' criteria that indicates devices status"
+        ]
+    }
+}
