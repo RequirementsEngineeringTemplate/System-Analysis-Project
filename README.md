@@ -3,8 +3,9 @@ This is a template for the assignments in a College Course that I instruct.
 
 Compare the following:
 ### Dice Image
-[Dice Image](https://github.com/RequirementsEngineeringTemplate/System-Analysis-Project/blob/main/Images/dice.jpg)
-[Raw Image](https://raw.githubusercontent.com/RequirementsEngineeringTemplate/System-Analysis-Project/refs/heads/main/Images/dice.jpg)
+![Dice Image](https://github.com/RequirementsEngineeringTemplate/System-Analysis-Project/blob/main/Images/dice.jpg)
+
+![Raw Image](https://raw.githubusercontent.com/RequirementsEngineeringTemplate/System-Analysis-Project/refs/heads/main/Images/dice.jpg)
 
 ### Gif
-[tetrix loop](https://github.com/RequirementsEngineeringTemplate/System-Analysis-Project/blob/main/Images/tetrixshort.gif)
+![tetrix loop](https://github.com/RequirementsEngineeringTemplate/System-Analysis-Project/blob/main/Images/tetrixshort.gif)
